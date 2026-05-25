@@ -66,7 +66,7 @@ The following legal stipulations apply strictly to all software designs, archite
 
 ---
 
-## 4. ⚔️ AuraKillFeedBlock™
+## 4. ⚔️ AuraKillFeed™
 *   **Asset Status**: Private Development Tier
 *   **Description**: Custom graphical UI kill feed system displaying combat events.
 
@@ -84,7 +84,7 @@ The following legal stipulations apply strictly to all software designs, archite
 
 ---
 
-## 6. 👋 AuraWelcomeBlock™
+## 6. 👋 AuraWelcome™
 *   **Asset Status**: Private Development Tier
 *   **Description**: Comprehensive welcome UI screens and connection/disconnection announcement handlers.
 
