@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.jpg" width="600" alt="BuzzardGames™ Logo"></p>
+Use code with caution.Save and close Notepad.Open your GitHub Desktop app, fill out the summary box with Added official web logo banner, click Commit to main, and then click Push origin.When you open your public GitHub web link in your browser, your stunning business card emblem will display centered right above your legal text!Let me know if you would like to move on to creating your Private repository folder to back up your 6 .cs files next!
 # 🔒 BuzzardGames™Portfolio | Premium Rust Plugins
 
 Welcome to the official public landing page and trademark portfolio for **BuzzardGames™**. 
